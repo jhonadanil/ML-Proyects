@@ -1,1 +1,49 @@
-proyecto inicial
+# Proyectos de Machine Learning
+
+Este repositorio reúne proyectos prácticos para explorar técnicas de Machine Learning. Aquí encontrarás implementaciones de problemas reales y simulados que abarcan diferentes enfoques. Su objetivo es desarrollar habilidades técnicas y aplicar métodos en diversos contextos, con explicaciones claras y visualizaciones que refuerzan los conceptos clave. Este repositorio refleja mi crecimiento en ciencia de datos y aprendizaje automático.
+
+## Archivos incluidos
+
+1. **Regresión**: Problemas de predicción de valores continuos.
+2. **Clasificación**: Modelos para categorizar datos en clases.
+3. **Clustering**: Algoritmos de agrupamiento no supervisado.
+4. **Detección de Anomalías**: Métodos para identificar datos atípicos.
+
+## Enfoque del Proyecto
+
+En cada uno de los proyectos de este repositorio, se exploran diversos temas clave del ciclo de vida del desarrollo de modelos de Machine Learning. Estos temas incluyen:
+
+- **Análisis Exploratorio de Datos (EDA)**: Estudio inicial de los datos para comprender su estructura, detectar patrones y relaciones, identificar valores atípicos, y obtener estadísticas descriptivas.
+  
+- **Limpieza de Datos**: Identificación y tratamiento de datos faltantes, duplicados y cualquier otro problema de calidad de los datos que pueda afectar el rendimiento del modelo.
+
+- **Preprocesamiento de Datos**: Transformación y normalización de los datos para asegurar que sean adecuados para el modelo, incluyendo la codificación de variables categóricas, escalado de características y creación de nuevas características.
+
+- **Selección de Características**: Técnicas para reducir la dimensionalidad del conjunto de datos, eliminando características irrelevantes o redundantes para mejorar el rendimiento del modelo.
+
+- **Entrenamiento del Modelo**: Implementación y ajuste de modelos de Machine Learning utilizando diversas técnicas, incluyendo regresión, clasificación y clustering, según el tipo de problema.
+
+- **Búsqueda de Hiperparámetros**: Optimización de los parámetros del modelo para mejorar su rendimiento, utilizando técnicas como la búsqueda en cuadrícula, la búsqueda aleatoria y la optimización bayesiana.
+
+Este enfoque asegura que cada fase del proceso de Machine Learning sea tratada de manera cuidadosa para obtener modelos precisos y eficientes.
+
+
+## Cómo usar este repositorio
+
+1. Clona este repositorio:
+   ```bash
+   https://github.com/jhonadanil/ml-proyects.git
+   ```
+2. Instala las dependencias necesarias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Navega por las carpetas para encontrar los notebooks correspondientes a cada técnica o proyecto.
+
+Cada notebook está diseñado para ser ejecutado en un entorno de Jupyter Notebook o equivalente. Antes de ejecutarlos, asegúrate de que todas las bibliotecas necesarias están instaladas en tu entorno y que la runa del dataset este correcta antes de leerlo.
+
+## Autor
+
+Creado por **Jonadanil**. Este repositorio refleja mi aprendizaje continuo en Machine Learning y mi pasión por aplicar estos métodos en problemas reales.
+
+

@@ -2,7 +2,7 @@
 
 Este repositorio reúne proyectos prácticos para explorar técnicas de Machine Learning. Aquí encontrarás implementaciones de problemas reales y simulados que abarcan diferentes enfoques. Su objetivo es desarrollar habilidades técnicas y aplicar métodos en diversos contextos, con explicaciones claras y visualizaciones que refuerzan los conceptos clave. Este repositorio refleja mi crecimiento en ciencia de datos y aprendizaje automático.
 
-## Archivos incluidos
+## Notebooks
 
 - **1.- Regresión**: Problema de predicción de valores continuos, en este caso la predicción de los precios de las casas en Boston.
 - **2.- Clasificación**: Modelo para categorizar datos en clases, para este problema la predicción de la presencia de cáncer en un conjunto de datos médico.

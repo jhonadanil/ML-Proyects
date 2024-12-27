@@ -5,11 +5,11 @@ Este repositorio reúne proyectos prácticos para explorar técnicas de Machine 
 ## Notebooks
 
 - **1.- Regresión**: Problema de predicción de valores continuos, en este caso la predicción de los precios de las casas en Boston.
-- 
+  
 - **2.- Clasificación**: Modelo para categorizar datos en clases, para este problema la predicción de la presencia de cáncer en un conjunto de datos médico.
-- 
+  
 - **3.- Clustering**: Algoritmo de agrupamiento no supervisado para identificar patrones o grupos dentro de los datos.
-- 
+
 - **4.- Detección de Anomalías**: Método para identificar datos atípicos o valores inusuales en el conjunto de datos.
 
 

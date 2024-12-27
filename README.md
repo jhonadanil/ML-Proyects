@@ -4,10 +4,10 @@ Este repositorio reúne proyectos prácticos para explorar técnicas de Machine 
 
 ## Archivos incluidos
 
-1. **Regresión**: Problemas de predicción de valores continuos.
-2. **Clasificación**: Modelos para categorizar datos en clases.
-3. **Clustering**: Algoritmos de agrupamiento no supervisado.
-4. **Detección de Anomalías**: Métodos para identificar datos atípicos.
+1. **Regresión**: Problema de predicción de valores continuos.
+2. **Clasificación**: Modelo para categorizar datos en clases.
+3. **Clustering**: Algoritmo de agrupamiento no supervisado.
+4. **Detección de Anomalías**: Método para identificar datos atípicos.
 
 ## Enfoque del Proyecto
 

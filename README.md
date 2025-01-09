@@ -1,6 +1,6 @@
 # Proyectos de Machine Learning
 
-Este repositorio reúne proyectos para explorar técnicas de Machine Learning. Aquí encontrarás implementaciones de problemas reales y simulados que abarcan diferentes enfoques. Su objetivo es desarrollar habilidades técnicas y aplicar métodos en diversos contextos, este notebook no se enfoca en explicar los temas sino tener un ejemplo de proyectos y visualizaciones para refuerzar los conceptos clave en un proyecto real de ml.
+Este repositorio reúne proyectos para explorar técnicas de Machine Learning. Aquí encontrarás implementaciones de problemas reales y simulados que abarcan diferentes enfoques. Su objetivo es desarrollar habilidades técnicas y aplicar métodos en diversos contextos, este notebook no se enfoca en explicar cada modelo y tema, sino en tener un ejemplo practico y visual para refuerzar los conceptos clave en un proyecto real de ml.
 
 ## Notebooks
 

@@ -1,6 +1,6 @@
 # Proyectos de Machine Learning
 
-Este repositorio reúne proyectos prácticos para explorar técnicas de Machine Learning. Aquí encontrarás implementaciones de problemas reales y simulados que abarcan diferentes enfoques. Su objetivo es desarrollar habilidades técnicas y aplicar métodos en diversos contextos, este notebook no se enfoca en explicar los temas sino tener un ejemplo de proyectos y visualizaciones para refuerzar los conceptos clave en un proyecto real de ml. Este repositorio refleja mi crecimiento en ciencia de datos y aprendizaje automático.
+Este repositorio reúne proyectos prácticos para explorar técnicas de Machine Learning. Aquí encontrarás implementaciones de problemas reales y simulados que abarcan diferentes enfoques. Su objetivo es desarrollar habilidades técnicas y aplicar métodos en diversos contextos, este notebook no se enfoca en explicar los temas sino tener un ejemplo de proyectos y visualizaciones para refuerzar los conceptos clave en un proyecto real de ml.
 
 ## Notebooks
 
@@ -48,6 +48,6 @@ Cada notebook está diseñado para ser ejecutado en un entorno de Jupyter Notebo
 
 ## Autor
 
-Creado por **Jonadanil**. Este repositorio refleja mi aprendizaje continuo en Machine Learning y mi pasión por aplicar estos métodos en problemas reales.
+Creado por **Jhonatan danilchuk**. Este repositorio refleja mi aprendizaje continuo en Machine Learning y mi actitud al aplicar estos métodos en problemas reales.
 
 

@@ -41,14 +41,14 @@ Este enfoque asegura que cada fase del proceso de Machine Learning sea tratada d
    https://github.com/jhonadanil/ml-proyects.git
    ```
 2. Instala las dependencias necesarias:
+
+## Autor
    ```bash
    pip install -r requirements.txt
    ```
 3. Navega por las carpetas para encontrar los notebooks correspondientes a cada técnica o proyecto.
 
-Cada notebook está diseñado para ser ejecutado en un entorno de Jupyter Notebook o equivalente. Antes de ejecutarlos, asegúrate de que todas las bibliotecas necesarias están instaladas en tu entorno y que la runa del dataset este correcta antes de leerlo.
-
-## Autor
+Cada notebook está diseñado para ser ejecutado en un entorno de Jupyter Notebook o equivalente. Antes de ejecutarlos, asegúrate de que todas las bibliotecas necesarias están instaladas en tu entorno y que la ruta del dataset este correcta.
 
 Creado por **Jhonatan danilchuk**. Este repositorio refleja mi aprendizaje continuo en Machine Learning y mi actitud al aplicar estos métodos en problemas reales.
 

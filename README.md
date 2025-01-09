@@ -1,16 +1,16 @@
 # Proyectos de Machine Learning
 
-Este repositorio reúne proyectos prácticos para explorar técnicas de Machine Learning. Aquí encontrarás implementaciones de problemas reales y simulados que abarcan diferentes enfoques. Su objetivo es desarrollar habilidades técnicas y aplicar métodos en diversos contextos, con explicaciones claras y visualizaciones que refuerzan los conceptos clave. Este repositorio refleja mi crecimiento en ciencia de datos y aprendizaje automático.
+Este repositorio reúne proyectos prácticos para explorar técnicas de Machine Learning. Aquí encontrarás implementaciones de problemas reales y simulados que abarcan diferentes enfoques. Su objetivo es desarrollar habilidades técnicas y aplicar métodos en diversos contextos, este notebook no se enfoca en explicar los temas sino tener un ejemplo de proyectos y visualizaciones para refuerzar los conceptos clave en un proyecto real de ml. Este repositorio refleja mi crecimiento en ciencia de datos y aprendizaje automático.
 
 ## Notebooks
 
-- **1.- Regresión**: Problema de predicción de valores continuos, en este caso la predicción de los precios de las casas en Boston.
+- **1.- Regresión**: Predicción de los precios de las casas en Boston.
   
-- **2.- Clasificación**: Modelo para categorizar datos en clases, para este problema la predicción de la presencia de cáncer en un conjunto de datos médico.
+- **2.- Clasificación**:  Predicción de la presencia de cáncer en un conjunto de datos médico.
   
 - **3.- Clustering**: Algoritmo de agrupamiento no supervisado para identificar patrones o grupos dentro de los datos.
 
-- **4.- Detección de Anomalías**: Método para identificar datos atípicos o valores inusuales en el conjunto de datos.
+- **4.- Detección de Anomalías**: Identificar datos atípicos o valores inusuales en transacciones bancarias fraudulentas.
 
 
 ## Enfoque del Proyecto

@@ -29,6 +29,8 @@ En cada uno de los proyectos de este repositorio, se exploran diversos temas cla
 
 - **Búsqueda de Hiperparámetros**: Optimización de los parámetros del modelo para mejorar su rendimiento, utilizando técnicas como la búsqueda en cuadrícula, la búsqueda aleatoria y la optimización bayesiana.
 
+- **Evaluación del modelo**: Evaluación del modelo, utilizando diversas métricas según el tipo de modelo
+
 Este enfoque asegura que cada fase del proceso de Machine Learning sea tratada de manera cuidadosa para obtener modelos precisos y eficientes.
 
 

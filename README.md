@@ -10,7 +10,7 @@ Este repositorio reúne proyectos prácticos para explorar técnicas de Machine 
   
 - **3.- Clustering**: Algoritmo de agrupamiento no supervisado para identificar patrones o grupos dentro de los datos.
 
-- **4.- Detección de Anomalías**: Identificar datos atípicos o valores inusuales en transacciones bancarias fraudulentas.
+- **4.- Detección de Anomalías**: Identificar datos atípicos o valores inusuales en transacciones bancarias.
 
 
 ## Enfoque del Proyecto

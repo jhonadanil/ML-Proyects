@@ -51,6 +51,14 @@ Cada notebook está diseñado para ser ejecutado en un entorno de Jupyter Notebo
 
 ## Autor
 
-Creado por **Jhonatan danilchuk**. Este repositorio refleja mi aprendizaje continuo en Machine Learning y mi actitud al aplicar estos métodos en problemas reales.
+Este proyecto fue creado por jhonatan como parte de mi aprendizaje continuo en Deep Learning.
+
+Si deseas contactarme:
+
+Email: jhonyprius@gmail.com
+
+GitHub: https://github.com/jhonadanil
+
+LinkedIn: https://www.linkedin.com/in/danilchuk-jhonatan/
 
 

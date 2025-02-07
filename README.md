@@ -49,11 +49,8 @@ Este enfoque asegura que cada fase del proceso de Machine Learning sea tratada d
    
 Cada notebook está diseñado para ser ejecutado en un entorno de Jupyter Notebook o equivalente. Antes de ejecutarlos, asegúrate de que todas las bibliotecas necesarias están instaladas en tu entorno y que la ruta del dataset este correcta.
 
-## Autor
 
-Este proyecto fue creado por jhonatan como parte de mi aprendizaje continuo en Deep Learning.
-
-Si deseas contactarme:
+## Contacto:
 
 Email: jhonyprius@gmail.com
 
